@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# System
+.DS_Store
+Thumbs.db
+
+# User Data (Exclude personal whitelist)
+# data/whitelist.json # Uncomment if you want to keep your whitelist private, but for initial commit we want the default one.
+
+# Test Artifacts (Optional: exclude mock malware if GitHub flags it, but keep for now for completeness)
+# tests/mock_malicious/
